@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
 <h3 align="center">I'm learning to become Full Stack Developer.</h3>
+<p align="center"><a href="https://github.com/NDRBAX/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NDRBAX&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
+
+</p>
+</br>
 
 
 ## 🙋‍♂️ About Me
@@ -59,14 +64,9 @@ Here are some ideas to get you started:
 <br/>
 
 ## 📊 My Github Stats
-<p align="left">
+<p align="center">
     <a href="https://github.com/NDRBAX/github-readme-stats"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
- <p align="right"><a href="https://github.com/NDRBAX/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NDRBAX&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
 
-</p>
-
-<br/>
 <br/>
 
 <a href="https://github.com/NDRBAX/github-readme-activity-graph"><img alt="NDRBAX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
