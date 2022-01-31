@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 <a href="#"><img width="100%" src="/main.svg" height="175px" align="center"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
+<p align="center"><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NDRBAX">
+</a>
+<a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a></p>
 <h3 align="center">I'm learning to become Full Stack Developer.</h3>
 <p align="center"><a href="https://github.com/NDRBAX/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NDRBAX&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
 
 </p>
-</br>
-
 
 ## 🙋‍♂️ About Me
 
@@ -31,7 +33,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My GitHub Portfolio](https://github.com/NDRBAX)**
-  
 </br>
 
 ## 🚀 Languages and Tools
@@ -56,7 +57,9 @@ Here are some ideas to get you started:
     <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/adobe-audition--v1.png"/></a>
     <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/adobe-indesign.png"/></a>
 </p>
-<br/>
+
+---
+
 <p align="center"><a href="https://github.com/NDRBAX/github-readme-stats"><img alt="NDRBAX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -85,7 +88,4 @@ Here are some ideas to get you started:
 </p> -->
 
 ## :kissing_heart: Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NDRBAX">
-</a>
-<a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a>
+
