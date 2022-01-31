@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://github.com/NDRBAX/github-readme-stats"><img alt="NDRBAX's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
 
 ## 📊 My Github Stats
-<p>
-    <a href="https://github.com/NDRBAX/github-readme-stats"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <a href="https://github.com/NDRBAX/github-readme-streak-stats">
+<p float="left">
+    <a href="https://github.com/NDRBAX/github-readme-stats"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+ <p float="right"><a href="https://github.com/NDRBAX/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NDRBAX&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
 </br>
 </p>
