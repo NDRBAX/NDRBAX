@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a></p>
 <h3 align="center">I'm learning to become Full Stack Developer.</h3>
 <p align="center"><a href="https://github.com/NDRBAX/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NDRBAX&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/></a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NDRBAX&theme=omni&hide_border=true&stroke=0000&background=0D1117"/></a>
 
 </p>
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/NDRBAX/github-readme-activity-graph"><img alt="NDRBAX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=#FE78C5&line=#E6DD78&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NDRBAX/github-readme-activity-graph"><img alt="NDRBAX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=FE78C5&line=E6DD78&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
