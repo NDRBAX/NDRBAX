@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
 <h3 align="center">I'm learning to become Full Stack Developer.</h3>
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at **[My GitHub Portfolio](https://github.com/NDRBAX)**
   
 </br>
+
 ## 🚀 Languages and Tools
 
 <p align="center"> 
@@ -82,7 +83,7 @@ Here are some ideas to get you started:
 
 </p> -->
 
-## ❤ Views and Followers
+## :kissing_heart: Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NDRBAX">
 </a>
