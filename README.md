@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My GitHub Portfolio](https://github.com/NDRBAX)**
+  
+</br>
 ## 🚀 Languages and Tools
 
 <p align="center"> 
@@ -47,9 +49,6 @@ Here are some ideas to get you started:
     <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/adobe-photoshop.png"/></a>
     <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/adobe-audition--v1.png"/></a>
     <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/adobe-indesign.png"/></a>
-    
-    
-    
 </p>
 <br/>
 
