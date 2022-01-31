@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#"><img width="100%" height="auto" src="/main.svg" height="75px" align="center"/></a>
+<a href="#"><img width="100%" src="/main.svg" height="175px" align="center"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
 <h3 align="center">I'm learning to become Full Stack Developer.</h3>
