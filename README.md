@@ -22,20 +22,18 @@ Here are some ideas to get you started:
 <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a></p>
 <h3 align="center">I'm learning to become Full Stack Developer !</h3>
 
-<a align="right" href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=radical"/></a>
-
-
 <p align="center"><a href="https://github.com/NDRBAX?tab=repositories">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=radical&hide_border=true&stroke=0000&background=0D1117"/></a>
-
 </p>
 
-## 🙋‍♂️ About Me
+</br>
+
+<a align="right" href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=radical&custom_title=🙋‍♂️ About Me"/></a>
 
 - 🔭 I’m currently learning on **[The Odin Project](https://www.theodinproject.com/)**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My GitHub Portfolio](https://github.com/NDRBAX)**
-</br>
+
 
 ## 🚀 Languages and Tools
 
