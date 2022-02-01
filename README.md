@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 </br>
 
-### 🚀 Languages and Tools
+<h3 align="center">🚀 Languages and Tools</h3>
+</br>
 
 <p align="center"> 
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/visual-studio-2019.png"/></a>
@@ -67,7 +68,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### 📊 My Github Stats
+<h3 align="center">📊 My Github Stats</h3>
+</br>
 <p align="center">
     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&custom_title=NDRBAX" /></a></p>
 </p>
