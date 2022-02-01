@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 <a href="#"><img width="100%" src="/main.svg" height="175px" align="center"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
-<p align="center"><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NDRBAX">
-</a>
+<p align="center">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NDRBAX"></a>
 <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a></p>
 <h3 align="center">I'm learning to become Full Stack Developer !</h3>
+
+<a align="right" href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=radical"/></a>
+
+
 <p align="center"><a href="https://github.com/NDRBAX?tab=repositories">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=radical&hide_border=true&stroke=0000&background=0D1117"/></a>
 
@@ -67,12 +71,13 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a></p>
-    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX"/></a></p>
+</p>
 <br/>
 
 <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile"><img alt="NDRBAX's Activity Graph" src="https://ndrbax-github-activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=FD418D&line=A1F2EB&point=E6DD78&hide_border=true" /></a>
 
 <br/>
+
 
 
 <!-- ## Connect with me:
