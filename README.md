@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://github.com/NDRBAX/github-readme-activity-graph"><img alt="NDRBAX's Activity Graph" src="https://ndrbax-github-activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=FE78C5&line=E6DD78&point=FFFFFF&hide_border=true" /></a>
+<a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile"><img alt="NDRBAX's Activity Graph" src="https://ndrbax-github-activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=FE78C5&line=E6DD78&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
