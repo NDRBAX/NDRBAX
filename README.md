@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ### 📊 My Github Stats
 <p align="center">
-    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a></p>
+    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&custom_title=NDRBAX" /></a></p>
 </p>
 <br/>
 
