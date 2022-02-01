@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 </br>
 
-<a align="right" href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=radical&hide_border=true&stroke=0000&background=0D1117&custom_title=🙋‍♂️ About Me"/></a>
+<a align="right" href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=radical&hide_border=true&background=0D1117&custom_title=🙋‍♂️ About Me"/></a>
 
 - 🔭 I’m currently learning on **[The Odin Project](https://www.theodinproject.com/)**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
