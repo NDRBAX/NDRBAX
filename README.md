@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My GitHub Portfolio](https://github.com/NDRBAX)**
 
+</br>
 
-## 🚀 Languages and Tools
+### 🚀 Languages and Tools
 
 <p align="center"> 
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/visual-studio-2019.png"/></a>
@@ -66,7 +67,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a></p>
 </p>
