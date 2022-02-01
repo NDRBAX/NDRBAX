@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=NDRBAX">
 </a>
 <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a></p>
-<h3 align="center">I'm learning to become Full Stack Developer.</h3>
+<h3 align="center">I'm learning to become Full Stack Developer !</h3>
 <p align="center"><a href="https://github.com/NDRBAX/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=radical&hide_border=true&stroke=0000&background=0D1117"/></a>
 
@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently learning on **[The Odin Project](https://www.theodinproject.com/)**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 👨‍💻 All of my projects are available at **[My GitHub Portfolio](https://github.com/NDRBAX)**
 </br>
 
@@ -62,7 +60,7 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/NDRBAX/github-readme-stats"><img alt="NDRBAX's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a></p>
 </br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 <br/>
 <br/>
 
@@ -72,7 +70,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile"><img alt="NDRBAX's Activity Graph" src="https://ndrbax-github-activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=FE78C5&line=E6DD78&point=FFFFFF&hide_border=true" /></a>
+<a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile"><img alt="NDRBAX's Activity Graph" src="https://ndrbax-github-activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=FD418D&line=A1F2EB&point=E6DD78&hide_border=true" /></a>
 
 <br/>
 
