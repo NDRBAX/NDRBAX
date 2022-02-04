@@ -22,7 +22,6 @@ Here are some ideas to get you started:
     </p>
     <h3 align="center">I'm learning to become Full Stack Developer !</h3>
 </div>
-
 <div class="stats" style="margin: 30px 0 50px 0">
     <div style="width:50%; float: right; padding-top: 25px">
         <div class="about" style="width:95%; float: right">
@@ -50,13 +49,10 @@ Here are some ideas to get you started:
             <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=radical&hide_border=true&stroke=0000&background=0D1117" /></a>
         </p>
     </div>
-   
 </div>
-
 <div class=graph style="width:50%" align="center">
     <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile"><img alt="NDRBAX's Activity Graph" src="https://ndrbax-github-activity-graph.herokuapp.com/graph?username=NDRBAX&bg_color=0D1117&color=FD418D&line=A1F2EB&point=E6DD78&hide_border=true&custom_title=Contribution Graph" /></a>
 </div>
-
  <div class="languages" style="width: 100%">
         <h3 style="margin:20px 0 20px 0" align="center">Languages and Tools</h3>
         <p align="center">
