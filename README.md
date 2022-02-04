@@ -23,17 +23,6 @@ Here are some ideas to get you started:
     <h3 align="center">I'm learning to become Full Stack Developer !</h3>
 </div>
 
-
-<div class="header">
-    <a href="#"><img width="100%" src="main.svg" height="175px" align="center" /></a>
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
-    <p align="center">
-        <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NDRBAX"></a>
-        <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a>
-    </p>
-    <h3 align="center">I'm learning to become Full Stack Developer !</h3>
-</div>
-
 <div class="stats" style="margin: 30px 0 50px 0">
     <div style="width:50%; float: right; padding-top: 25px">
         <div class="about" style="width:95%; float: right">
