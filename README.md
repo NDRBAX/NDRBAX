@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 </tr>
 </table> -->
 
-🔭 I’m currently learning on [The Odin Project](https://www.theodinproject.com/) </br>
-👯 I’m looking to collaborate on OpenSource Projects </br>
-👨‍💻 All of my projects are available [here](https://github.com/NDRBAX) </br></br>
+**👷‍♂️ About me** 
+
+🔭 I’m currently learning on [The Odin Project](https://www.theodinproject.com/)</br>👯 I’m looking to collaborate on OpenSource Projects </br>👨‍💻 All of my projects are available [here](https://github.com/NDRBAX)</br></br>
 
 
 <!--START_SECTION:waka-->
@@ -54,7 +54,9 @@ Here are some ideas to get you started:
 > 📜 9 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
- > 
+
+<br>
+
 **I Mostly Code in HTML** 
 
 ```text
