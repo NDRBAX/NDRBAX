@@ -14,6 +14,35 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 130 Contributions in the Year 2022
+ > 
+> 📦 224.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I Mostly Code in HTML** 
+
+```text
+HTML                     6 repos             █████████████░░░░░░░░░░░░   54.55% 
+JavaScript               5 repos             ███████████░░░░░░░░░░░░░░   45.45%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/NDRBAX/NDRBAX/main/charts/bar_graph.png) 
+
+
+ Last Updated on 11/02/2022 15:47:13 UTC
 <!--END_SECTION:waka-->
 
 <div class="header">
