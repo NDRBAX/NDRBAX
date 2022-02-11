@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
@@ -37,12 +37,8 @@ JavaScript               5 repos             ███████████�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/NDRBAX/NDRBAX/main/charts/bar_graph.png) 
-
-
- Last Updated on 11/02/2022 15:47:13 UTC
+ Last Updated on 11/02/2022 16:01:32 UTC
 <!--END_SECTION:waka-->
 
 <div class="header">
