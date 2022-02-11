@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 </tr>
 </table> -->
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;🔭 I’m currently learning on [The Odin Project](https://www.theodinproject.com/) </br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;👯 I’m looking to collaborate on OpenSource Projects </br>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;👨‍💻 All of my projects are available [here](https://github.com/NDRBAX) </br></br>
+🔭 I’m currently learning on [The Odin Project](https://www.theodinproject.com/) </br>
+👯 I’m looking to collaborate on OpenSource Projects </br>
+👨‍💻 All of my projects are available [here](https://github.com/NDRBAX) </br></br>
 
 
 <!--START_SECTION:waka-->
