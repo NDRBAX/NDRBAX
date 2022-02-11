@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 130 Contributions in the Year 2022
@@ -51,7 +49,6 @@ JavaScript               5 repos             ███████████�
 
 
 
- Last Updated on 11/02/2022 16:01:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- ||<a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&custom_title=NDRBAX" /></a>|
