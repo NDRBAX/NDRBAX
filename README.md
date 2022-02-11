@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 130 Contributions in the Year 2022
+> 🏆 144 Contributions in the Year 2022
  > 
 > 📦 224.3 kB Used in GitHub's Storage 
  > 
@@ -54,9 +54,7 @@ Here are some ideas to get you started:
 > 📜 9 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
-
-<br>
-
+ > 
 **I Mostly Code in HTML** 
 
 ```text
@@ -64,6 +62,8 @@ HTML                     6 repos             ███████████�
 JavaScript               5 repos             ███████████░░░░░░░░░░░░░░   45.45%
 
 ```
+
+
 
 <!--END_SECTION:waka-->
 
