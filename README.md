@@ -23,9 +23,7 @@ Here are some ideas to get you started:
     <h2 align="center">I'm learning to become Full Stack Developer !</h2>
 </div>
 <div align="center">
-    <p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a></p>
-    <p>👯 I’m looking to collaborate on <strong>OpenSource Projects</strong></p>
-    <p>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX">here</a></p>
+    <p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a></br>👯 I’m looking to collaborate on <strong>OpenSource Projects</strong></br>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX">here</a></p>
 </div>
 
 <!--START_SECTION:waka-->
