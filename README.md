@@ -20,10 +20,13 @@ Here are some ideas to get you started:
         <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NDRBAX"></a>
         <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a>
     </p>
-    <h3 align="center">I'm learning to become Full Stack Developer !</h3>
+    <h2 align="center">I'm learning to become Full Stack Developer !</h2>
 </div>
-
-🔭 I’m currently learning on [The Odin Project](https://www.theodinproject.com/)</br>👯 I’m looking to collaborate on **OpenSource Projects**</br>👨‍💻 All of my projects are available [here](https://github.com/NDRBAX)
+<div align="center">
+    <p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a></p>
+    <p>👯 I’m looking to collaborate on <strong>OpenSource Projects</strong></p>
+    <p>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX">here</a></p>
+</div>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
@@ -52,9 +55,6 @@ JavaScript               5 repos             ███████████�
 
  Last Updated on 11/02/2022 16:01:32 UTC
 <!--END_SECTION:waka-->
-
-
-
 
 <!-- ||<a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&custom_title=NDRBAX" /></a>|
 |:-------------------------:|:-------------------------:|
