@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     </p>
     <h2 align="center">I'm learning to become Full Stack Developer !</h2>
 </div>
+</br>
 
 <table style="border:0">
  <tr>
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 ong>OpenSource Projects</strfrom>
     </br>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a> !!!</p>
     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=dark&hide_border=true&stroke=0000&background=0D1117" /></a>
+    </br></br></br>
     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&custom_title=NDRBAX" /></a>
 </td>
     <td>
