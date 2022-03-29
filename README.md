@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <table border="0">
  <tr>
     <td><p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a></br>👯 I’m looking to collaborate on <strfrom collections.abc import MutableMapping
-ong>OpenSource Projects</strfrom></br>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX">here</a></p></td>
+ong>OpenSource Projects</strfrom></br>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a></p></td>
     <td><a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=radical&hide_border=true&stroke=0000&background=0D1117" /></a></td>
  </tr>
  <tr>
