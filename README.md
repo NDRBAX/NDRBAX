@@ -33,7 +33,7 @@ ong>OpenSource Projects</strfrom>
     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&custom_title=NDRBAX" /></a>
 </td>
     <td>
-    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&layout=compact&custom_title=Recent activity" /></a>
+    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&layout=compact&custom_title=Recent activity" /></a></br></br></br>
     <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX 's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
     </td>
  </tr>
