@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ong>OpenSource Projects</strfrom></br>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a> !!!</p>
     <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX 's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p></td>
     <td><a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=dark&hide_border=true&stroke=0000&background=0D1117" /></a>
-    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=#0D1117&custom_title=NDRBAX" /></a></td>
+    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&custom_title=NDRBAX" /></a></td>
  </tr>
 
  <tr>
