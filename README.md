@@ -48,7 +48,7 @@ ong>OpenSource Projects</strfrom>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/mongodb.png" /> </a>
     <a href="https://docs.framasoft.org/fr/grav/markdown.html" target="_blank"><img src="https://img.icons8.com/color/48/markdown.png" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/bootstrap.png" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" style="height:38px; vertical-align:top; margin-right:7px;" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="jquery%20(1).png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/npm.png" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /></a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/git.png" /></a>
