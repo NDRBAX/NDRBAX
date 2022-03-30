@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div class="header">
-    <a href="#"><img width="100%" src="charts/code-developer.gif" height="375px" align="center" /></a>
+    <a href="#"><img width="100%" src="charts/ezgif.com-gif-maker.gif" height="350px" align="center" /></a>
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
     <p align="center">
         <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NDRBAX"></a>
