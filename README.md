@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 <table style="border:0">
  <tr>
  <td>
-    <p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a></br>👯 I’m looking to collaborate on <strfrom collections.abc import MutableMapping
+    <p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a>
+    </br>👯 I’m looking to collaborate on <strfrom collections.abc import MutableMapping
 ong>OpenSource Projects</strfrom>
-    </br>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a> !!!</p>
+    </br>👨‍💻  All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a> !!!</p>
    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=swift&hide_border=true&bg_color=fff&custom_title=NDRBAX" /></a>
     </br></br>
      <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=swift&hide_border=true&stroke=0000&background=fff" /></a>
