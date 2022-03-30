@@ -34,13 +34,13 @@ ong>OpenSource Projects</strfrom>
     </br></br>
      <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=vue&hide_border=true&stroke=0000&background=fff" /></a>
 </td>
-    <td>
+    <td style="display:flex; align-items: center">
     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=vue&hide_border=true&langs_count=8&bg_color=fff&layout=compact&custom_title=Recent activity" /></a></br></br>
-    <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX 's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=vue&hide_border=true&bg_color=fff"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+    <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=vue&hide_border=true&bg_color=fff"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
     </td>
  </tr>
 </table>
-    <td><h3 style="margin:20px 0 20px 0; color: #5fc396; font-weight: bold; font-size: 20px" align="center">Languages and Tools</h3><p align="center">
+    <td><h3 style="margin:20px 0 20px 0; font-weight: bold; font-size: 20px" align="center">Languages and Tools</h3><p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" /> </a>
