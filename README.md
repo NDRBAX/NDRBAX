@@ -30,13 +30,13 @@ Here are some ideas to get you started:
     <p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a></br>👯 I’m looking to collaborate on <strfrom collections.abc import MutableMapping
 ong>OpenSource Projects</strfrom>
     </br>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a> !!!</p>
-   <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=vue&hide_border=true&bg_color=fff&custom_title=NDRBAX" /></a>
+   <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=swift&hide_border=true&bg_color=fff&custom_title=NDRBAX" /></a>
     </br></br>
-     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=vue&hide_border=true&stroke=0000&background=fff" /></a>
+     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=swift&hide_border=true&stroke=0000&background=fff" /></a>
 </td>
-    <td style="display:flex; align-items: center">
-    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=vue&hide_border=true&langs_count=8&bg_color=fff&layout=compact&custom_title=Recent activity" /></a></br></br>
-    <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=vue&hide_border=true&bg_color=fff"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+    <td>
+    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=swift&hide_border=true&langs_count=8&bg_color=fff&layout=compact&custom_title=Recent activity" /></a></br></br>
+    <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=swift&hide_border=true&bg_color=fff"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
     </td>
  </tr>
 </table>
