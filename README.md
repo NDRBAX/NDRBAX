@@ -40,7 +40,7 @@ ong>OpenSource Projects</strfrom>
     </td>
  </tr>
 </table>
-    <td><h3 style="margin:20px 0 20px 0; color: #fff; font-weight: bold" align="center">Languages and Tools</h3><p align="center">
+    <td><h3 style="margin:20px 0 20px 0; color: #5fc396; font-weight: bold; font-size: 20px" align="center">Languages and Tools</h3><p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" /> </a>
