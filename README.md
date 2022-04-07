@@ -50,22 +50,19 @@ ong>OpenSource Projects</strfrom>
     <a href="https://docs.framasoft.org/fr/grav/markdown.html" target="_blank"><img src="https://img.icons8.com/color/48/markdown.png" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/bootstrap.png" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="jquery%20(1).png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/npm.png" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /></a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/git.png" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line" target="_blank"> <img src="https://img.icons8.com/color/48/code.png" /></a>
-    <a href="https://www.microsoft.com/windows/windows-10-specifications" target="_blank"> <img src="https://img.icons8.com/color/48/microsoft.png" /></a>
-    <a href="https://www.apple.com/fr/macos/monterey/" target="_blank"> <img src="https://img.icons8.com/color/48/mac-os--v1.png" /></a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/linux--v1.png" /></a>
+    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" /></a>
+    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" /></a>
+    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-indesign--v1.png" /></a>
+    <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/adobe-audition.png" /></a>
+    <a href="https://www.apple.com/final-cut-pro/" target="_blank"> <img src="https://img.icons8.com/color/48/final-cut-pro-x.png" /></a>
     <a href="https://krita.org/fr/" target="_blank"><img src="https://img.icons8.com/color/48/krita-squared.png" /></a>
     <a href="https://www.gimp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/gimp.png" /></a>
     <a href="https://www.audacityteam.org/" target="_blank"><img src="
 https://img.icons8.com/color/48/audacity.png" /></a>
-    <a href="https://www.apple.com/final-cut-pro/" target="_blank"> <img src="https://img.icons8.com/color/48/final-cut-pro-x.png" /></a>
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" /></a>
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" /></a>
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-indesign--v1.png" /></a>
-    <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/adobe-audition.png" /></a></p></td>
+    </p></td>
 
     
 
@@ -79,6 +76,10 @@ https://img.icons8.com/color/48/audacity.png" /></a>
 
 
 <!-- <table border="0">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/npm.png" /> </a>
+<a href="https://www.microsoft.com/windows/windows-10-specifications" target="_blank"> <img src="https://img.icons8.com/color/48/microsoft.png" /></a>
+    <a href="https://www.apple.com/fr/macos/monterey/" target="_blank"> <img src="https://img.icons8.com/color/48/mac-os--v1.png" /></a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/linux--v1.png" /></a>
  <tr>
     <td><p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a></br>👯 I’m looking to collaborate on <strfrom collections.abc import MutableMapping
 ong>OpenSource Projects</strfrom></br>👨‍💻 All of my projects are available <a href="https://github.com/NDRBAX">here</a></p></td>
