@@ -33,7 +33,7 @@ ong>OpenSource Projects</strfrom>
     </br>👨‍💻  All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a> !!!</p>
    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=swift&hide_border=true&bg_color=fff&custom_title=NDRBAX" /></a>
     </br></br>
-     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com/?user=NDRBAX&theme=swift&hide_border=true&stroke=0000&background=fff" /></a>
+     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D" /></a>
 </td>
     <td>
     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=swift&hide_border=true&langs_count=8&bg_color=fff&layout=compact&custom_title=Recent activity" /></a></br></br>
