@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 <table style="border:0">
  <tr>
  <td>
-    <p>🔭 I’m currently learning on <a href="https://www.theodinproject.com/">The Odin Project</a>
+    <p>🔭 I’m currently learning at <a href="https://www.lacapsule.academy/formation-developpeur-web/full-time">LaCapsule Academy</a> 🔥 💯
+    </br>🌱 I’ve done the first part of <a href="https://www.theodinproject.com/">The Odin Project</a>
     </br>👯 I’m looking to collaborate on <strfrom collections.abc import MutableMapping
 ong>OpenSource Projects</strfrom>
     </br>👨‍💻  All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a> !!!</p>
