@@ -41,8 +41,6 @@ ong>OpenSource Projects</strfrom>
     </td>
  </tr>
 </table>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrbax&margin-w=15&rank=AAA,AA,A,B,C&column=4&theme=flat" alt="ndrbax" /></a> </p>
     <td><h3 style="margin:20px 0 20px 0; font-weight: bold; font-size: 20px" align="center">Languages and Tools</h3><p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png" /></a>
@@ -69,3 +67,5 @@ ong>OpenSource Projects</strfrom>
     <a href="https://www.audacityteam.org/" target="_blank"><img src="
 https://img.icons8.com/color/48/audacity.png" /></a>
     </p></td>
+    </br>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrbax&margin-w=15&rank=AAA,AA,A,B,C&column=4&theme=flat" alt="ndrbax" /></a> </p>
