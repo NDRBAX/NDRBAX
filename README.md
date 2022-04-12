@@ -22,6 +22,40 @@ Here are some ideas to get you started:
         <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a>
     </p>
     <h2 align="center">I'm learning to become Full Stack Developer !</h2>
+    <p align="center">
+    <a href="https://github.com/search?q=user%3ANDRBAX+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANDRBAX+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANDRBAX+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ANDRBAX+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-20232a.svg?logo=express&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0984e3.svg?logo=jquery&logoColor=%FFFFFF"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Command" src="https://img.shields.io/badge/Vue.js-20232a.svg?logo=vue.js&logoColor=%FFF"></a>
+    <a href="https://github.com/search?q=user%3ANDRBAX+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=%white"></a>
+    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-20232a.svg?logo=fedora&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Command" src="https://img.shields.io/badge/Terminal-241F31.svg?logo=gnometerminal&logoColor=%white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
+    <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-20232a.svg?logo=adobephotoshop&logoColor=%FFF"></a>
+    <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere Pro-20232a.svg?logo=adobepremierepro&logoColor=%FFF"></a>
+    <a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/After Effects-20232a.svg?logo=adobeaftereffects&logoColor=%FFF"></a>
+    <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-20232a.svg?logo=adobeillustrator&logoColor=%white"></a>
+    <a href="#"><img alt="Adobe Indesign" src="https://img.shields.io/badge/Indesign-20232a.svg?logo=adobeindesign&logoColor=%FFF"></a>
+    <a href="#"><img alt="Adobe Audition" src="https://img.shields.io/badge/Audition-20232a.svg?logo=adobeaudition&logoColor=%FFF"></a>
+    <a href="#"><img alt="Gimp" src="https://img.shields.io/badge/Gimp-20232a.svg?logo=gimp&logoColor=%FFF"></a>
+    <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita-20232a.svg?logo=krita&logoColor=%white"></a> 
+</p>
         <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrbax&margin-w=15&rank=AAA,AA,A,B,C&column=4&theme=flat" alt="ndrbax" /></a> </p>
 </div>
 
@@ -41,31 +75,16 @@ ong>OpenSource Projects</strfrom>
     <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=swift&hide_border=true&bg_color=fff"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
     </td>
  </tr>
-</table>
-    <td><h3 style="margin:20px 0 20px 0; font-weight: bold; font-size: 20px" align="center">Languages and Tools</h3><p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript--v1.png" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/fluency/48/node-js.png" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/mongodb.png" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-    <a href="https://docs.framasoft.org/fr/grav/markdown.html" target="_blank"><img src="https://img.icons8.com/color/48/markdown.png" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="jquery%20(1).png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/git.png" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line" target="_blank"> <img src="https://img.icons8.com/color/48/code.png" /></a>
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" /></a>
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" /></a>
-    <a href="https://www.adobe.com/" target="_blank"><img src="https://img.icons8.com/color/48/adobe-indesign--v1.png" /></a>
-    <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/adobe-audition.png" /></a>
-    <a href="https://www.apple.com/final-cut-pro/" target="_blank"> <img src="https://img.icons8.com/color/48/final-cut-pro-x.png" /></a>
-    <a href="https://krita.org/fr/" target="_blank"><img src="https://img.icons8.com/color/48/krita-squared.png" /></a>
-    <a href="https://www.gimp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/gimp.png" /></a>
-    <a href="https://www.audacityteam.org/" target="_blank"><img src="
-https://img.icons8.com/color/48/audacity.png" /></a>
-    </p></td>
+
+
+
+
+
+
+
+
+
+
+
+
 
