@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div class="header">
     <a href="#"><img width="100%" src="charts/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="300px" align="center" /></a>
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
@@ -24,8 +23,6 @@ Here are some ideas to get you started:
     </p>
     <h2 align="center">I'm learning to become Full Stack Developer !</h2>
 </div>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrbax&margin-w=15&rank=AAA,AA,A,B,C&column=4&theme=flat" alt="ndrbax" /></a> </p>
 
 <table style="border:0">
  <tr>
@@ -44,6 +41,8 @@ ong>OpenSource Projects</strfrom>
     </td>
  </tr>
 </table>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrbax&margin-w=15&rank=AAA,AA,A,B,C&column=4&theme=flat" alt="ndrbax" /></a> </p>
     <td><h3 style="margin:20px 0 20px 0; font-weight: bold; font-size: 20px" align="center">Languages and Tools</h3><p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/html-5--v1.png"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png" /></a>
