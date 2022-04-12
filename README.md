@@ -36,7 +36,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
@@ -56,7 +55,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Gimp" src="https://img.shields.io/badge/Gimp-20232a.svg?logo=gimp&logoColor=%FFF"></a>
     <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita-20232a.svg?logo=krita&logoColor=%white"></a> 
 </p>
-        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrbax&margin-w=15&rank=AAA,AA,A,B,C&column=4&theme=flat" alt="ndrbax" /></a> </p>
+       
 </div>
 
 <table style="border:0">
