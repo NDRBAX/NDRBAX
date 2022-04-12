@@ -31,19 +31,19 @@ Here are some ideas to get you started:
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0984e3.svg?logo=jquery&logoColor=%FFFFFF"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Command" src="https://img.shields.io/badge/Vue.js-20232a.svg?logo=vue.js&logoColor=%FFF"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-0c2461.svg?logo=vue.js&logoColor=%FFF"></a>
     <a href="https://github.com/search?q=user%3ANDRBAX+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-1B1464.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?logo=vim&logoColor=%white"></a>
-    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-20232a.svg?logo=fedora&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Command" src="https://img.shields.io/badge/Terminal-241F31.svg?logo=gnometerminal&logoColor=%white"></a>
+    <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-0c2461.svg?logo=fedora&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Command" src="https://img.shields.io/badge/Terminal-3c6382.svg?logo=gnometerminal&logoColor=%white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-20232a.svg?logo=adobephotoshop&logoColor=%FFF"></a>
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-20232a.svg?logo=adobeillustrator&logoColor=%white"></a>
     <a href="#"><img alt="Adobe Indesign" src="https://img.shields.io/badge/Indesign-20232a.svg?logo=adobeindesign&logoColor=%FFF"></a>
     <a href="#"><img alt="Adobe Audition" src="https://img.shields.io/badge/Audition-20232a.svg?logo=adobeaudition&logoColor=%FFF"></a>
-    <a href="#"><img alt="Gimp" src="https://img.shields.io/badge/Gimp-20232a.svg?logo=gimp&logoColor=%FFF"></a>
-    <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita-20232a.svg?logo=krita&logoColor=%white"></a> 
+    <a href="#"><img alt="Gimp" src="https://img.shields.io/badge/Gimp-b71540.svg?logo=gimp&logoColor=%FFF"></a>
+    <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita-1e3799.svg?logo=krita&logoColor=%white"></a> 
 </p>
        
 </div>
