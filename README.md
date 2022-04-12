@@ -22,6 +22,7 @@ Here are some ideas to get you started:
         <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a>
     </p>
     <h2 align="center">I'm learning to become Full Stack Developer !</h2>
+        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrbax&margin-w=15&rank=AAA,AA,A,B,C&column=4&theme=flat" alt="ndrbax" /></a> </p>
 </div>
 
 <table style="border:0">
@@ -67,5 +68,4 @@ ong>OpenSource Projects</strfrom>
     <a href="https://www.audacityteam.org/" target="_blank"><img src="
 https://img.icons8.com/color/48/audacity.png" /></a>
     </p></td>
-    </br>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndrbax&margin-w=15&rank=AAA,AA,A,B,C&column=4&theme=flat" alt="ndrbax" /></a> </p>
+
