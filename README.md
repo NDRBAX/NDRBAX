@@ -1,5 +1,5 @@
 <div class="header">
-    <a href="#"><img width="100%" src="charts/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="300px" align="center" /></a>
+    <a href="#"><img width="100%" src="assets/cover.gif" height="300px" align="center" /></a>
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
     <p align="center">
         <a href="https://wakatime.com/@86d7ec69-f6ba-4041-8e22-8c92ba3fc1de"><img src="https://wakatime.com/badge/user/86d7ec69-f6ba-4041-8e22-8c92ba3fc1de.svg" alt="Total time coded since Feb 1 2022" /></a>
@@ -61,15 +61,4 @@ ong>OpenSource Projects</strfrom>
     </td>
  </tr>
 
-
 <!--L-->
-
-
-
-
-
-
-
-
-
-
