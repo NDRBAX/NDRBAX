@@ -1,6 +1,6 @@
 <div class="header">
     <a href="#"><img width="100%" src="assets/cover.gif" height="300px" align="center" /></a>
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NDRBAX</h1>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px"></h1>
     <p align="center">
         <a href="https://wakatime.com/@86d7ec69-f6ba-4041-8e22-8c92ba3fc1de"><img src="https://wakatime.com/badge/user/86d7ec69-f6ba-4041-8e22-8c92ba3fc1de.svg" alt="Total time coded since Feb 1 2022" /></a>
         <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NDRBAX"></a>
@@ -46,7 +46,7 @@
 <table style="border:0">
  <tr>
  <td>
-    <p>🔭 I’m currently learning at <a href="https://www.lacapsule.academy/formation-developpeur-web/full-time">LaCapsule Academy</a> 🔥
+    <p>🔭 Web and Mobile Developer training at <a href="https://www.lacapsule.academy/formation-developpeur-web/full-time">LaCapsule Academy</a> 🔥
     </br>🌱 I’ve done the first part of <a href="https://www.theodinproject.com/">The Odin Project</a>
     </br>👯 I’m looking to collaborate on <strfrom collections.abc import MutableMapping
 ong>OpenSource Projects</strfrom>
