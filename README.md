@@ -51,13 +51,13 @@
     </br>👯 I’m looking to collaborate on <strfrom collections.abc import MutableMapping
 ong>OpenSource Projects</strfrom>
     </br>👨‍💻  All of my projects are available <a href="https://github.com/NDRBAX?tab=repositories">here</a> !!!</p>
-   <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX" /></a>
+        <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Github Stats" src="https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX" /></a>
     </br></br>
-     <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117" /></a>
+        <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's streak" src="https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117" /></a>
 </td>
     <td>
-    <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=0d1117&layout=compact&custom_title=Recent activity" /></a></br></br>
-    <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+        <a href="https://github.com/NDRBAX?tab=repositories"><img alt="NDRBAX's Wakatime Stats" src="https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=0d1117&layout=compact&custom_title=Recent activity" /></a></br></br>
+        <a href="https://github.com/NDRBAX?tab=repositories "><img alt="NDRBAX's Top Languages" src="https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/></a><p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
     </td>
  </tr>
 
