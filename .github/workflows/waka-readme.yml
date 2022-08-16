@@ -21,3 +21,4 @@ jobs:
           SHOW_LANGUAGE: true
           SHOW_OS: true
           SHOW_EDITORS: true
+          SHOW_UPDATED_DATE: false
