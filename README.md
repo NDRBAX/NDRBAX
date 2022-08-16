@@ -47,32 +47,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 525 Contributions in the Year 2022
- > 
-> 📦 967.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 25 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               19 repos            ████████████░░░░░░░░░░░░░   50.0% 
-HTML                     13 repos            ████████░░░░░░░░░░░░░░░░░   34.21% 
-EJS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-Perl                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
-
-```
-
-
-
- Last Updated on 16/08/2022 22:14:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- <table style="border:0">
