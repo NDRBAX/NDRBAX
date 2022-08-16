@@ -46,6 +46,9 @@
        
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- <table style="border:0">
  <tr>
  <td>
@@ -65,6 +68,3 @@ ong>OpenSource Projects</strfrom>
  </tr> -->
 
 <!--L-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
