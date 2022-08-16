@@ -47,8 +47,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 525 Contributions in the Year 2022
@@ -73,12 +71,8 @@ Perl                     1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/NDRBAX/NDRBAX/main/charts/bar_graph.png) 
-
-
- Last Updated on 16/08/2022 20:38:34 UTC
+ Last Updated on 16/08/2022 20:46:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- <table style="border:0">
