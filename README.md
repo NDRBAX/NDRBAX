@@ -47,6 +47,38 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 525 Contributions in the Year 2022
+ > 
+> 📦 967.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 25 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               19 repos            ████████████░░░░░░░░░░░░░   50.0% 
+HTML                     13 repos            ████████░░░░░░░░░░░░░░░░░   34.21% 
+EJS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Perl                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/NDRBAX/NDRBAX/main/charts/bar_graph.png) 
+
+
+ Last Updated on 16/08/2022 20:38:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- <table style="border:0">
