@@ -6,7 +6,6 @@
         <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NDRBAX"></a>
         <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a>
     </p>
-    <h2 align="center">Full Stack Developer Web & Mobile !</h2><br>
     <p align="center">
     <a href="https://github.com/search?q=user%3ANDRBAX+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANDRBAX+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
