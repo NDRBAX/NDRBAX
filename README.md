@@ -5,8 +5,7 @@
         <a href="https://wakatime.com/@86d7ec69-f6ba-4041-8e22-8c92ba3fc1de"><img src="https://wakatime.com/badge/user/86d7ec69-f6ba-4041-8e22-8c92ba3fc1de.svg" alt="Total time coded since Feb 1 2022" /></a>
         <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=NDRBAX"></a>
         <a href="https://github.com/NDRBAX?tab=followers"><img src="https://img.shields.io/github/followers/NDRBAX?label=Followers&style=social" alt="GitHub Badge"></a>
-    </p>
-        <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px"></h1>
+    </p><br>
     <p align="center">
     <a href="https://github.com/search?q=user%3ANDRBAX+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANDRBAX+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -45,6 +44,7 @@
 </p>
        
 </div>
+        <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0px"></h1>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
