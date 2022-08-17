@@ -1,6 +1,6 @@
-<center>
-
 ![Logo](assets/cover.gif)
+
+<div style="text-align: center;">
 
 ![Wakatime badge](https://wakatime.com/badge/user/86d7ec69-f6ba-4041-8e22-8c92ba3fc1de.svg)
 ![Profile views](https://komarev.com/ghpvc/?username=NDRBAX)
@@ -27,12 +27,12 @@
 [![Git](https://img.shields.io/badge/Git-FFF.svg?logo=git&style=for-the-badge&logoColor=F05033)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 
+</div>
+
 | [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) [![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=0d1117&layout=compact)](https://github.com/NDRBAX?tab=repositories) | [![NDRBAX's streaks](https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117)](https://github.com/NDRBAX?tab=repositories) [![NDRBAX's Top Languages](https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/NDRBAX?tab=repositories) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 _Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
-
-</center>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
