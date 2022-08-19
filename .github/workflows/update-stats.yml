@@ -20,5 +20,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
           SYMBOL_VERSION: "2"
