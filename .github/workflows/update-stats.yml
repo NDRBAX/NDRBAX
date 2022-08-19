@@ -11,7 +11,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: NDRBAX/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -22,21 +22,3 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "False"
           SYMBOL_VERSION: "2"
-
-{"data":
-  {"human_readable_range":"last week",
-  "is_already_updating":false,
-  "is_coding_activity_visible":true,
-  "is_including_today":false,
-  "is_other_usage_visible":true,
-  "is_stuck":false,
-  "is_up_to_date":false,
-  "is_up_to_date_pending_future":false,
-  "percent_calculated":71,
-  "range":"last_7_days",
-  "status":"pending_update",
-  "timeout":15,
-  "timezone":"Asia/Shanghai",
-  "username":"NDRBAX",
-  "writes_only":false},
-  "message":"Calculating stats for this user. Check back later."}
