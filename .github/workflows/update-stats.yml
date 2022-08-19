@@ -23,7 +23,6 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SYMBOL_VERSION: "2"
           SHOW_OS: True
-          SHOW_PROJECTS: True
           SHOW_EDITORS: True
           SHOW_TIMEZONE: True
           SHOW_LANGUAGE: True
