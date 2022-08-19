@@ -41,8 +41,6 @@ _Top languages is only a metric of the languages my public code consists of and 
 </div> -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29%20Million%20lines%20of%20code-blue)
-
 **I Mostly Code in JavaScript** 
 
 ```text
