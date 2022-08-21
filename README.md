@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B7BEC&center=true&multiline=true&width=435&height=60&lines=Hi+there!++I%E2%80%99m+NDRBAX;+Fullstack+Developer+Web+%26+Mobile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFF&center=true&multiline=true&width=435&height=60&lines=Hi+there!++I%E2%80%99m+NDRBAX;+Fullstack+Developer+Web+%26+Mobile+)](https://git.io/typing-svg)
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/search?q=user%3ANDRBAX+language%3Ahtml)
 [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/search?q=user%3ANDRBAX+language%3Acss)
@@ -34,25 +34,21 @@
 
 </div>
 
-<!-- | [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) [![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=0d1117&layout=compact)](https://github.com/NDRBAX?tab=repositories) | [![NDRBAX's streaks](https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117)](https://github.com/NDRBAX?tab=repositories) [![NDRBAX's Top Languages](https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/NDRBAX?tab=repositories) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -->
+<!-- [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) -->
 
 <div align="center">
 
-| ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF&theme=radical) | [![NDRBAX's streaks](https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117)](https://github.com/NDRBAX?tab=repositories) |
+| ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF&theme=default) | [![NDRBAX's streaks](https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117)](https://github.com/NDRBAX?tab=repositories) |
 | :---------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <br>
 
-![GitHub metrics](https://metrics.lecoq.io/NDRBAX)
+| ![GitHub metrics](https://metrics.lecoq.io/NDRBAX) | [![Readme Quotes](https://github-readme-quotes-rho.vercel.app/api?type=vertical&theme=chartreuse-dark)]() |
+| :------------------------------------------------- | :-------------------------------------------------------------------------------------------------------: |
 
 | [![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&layout=compact&bg_color=0d1117&custom_title=Recent+Activity)](https://github.com/NDRBAX?tab=repositories) | [![NDRBAX's Top Languages](https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/NDRBAX?tab=repositories) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 _Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
-
-<!-- Markdown -->
-
-[![Readme Quotes](https://github-readme-quotes-rho.vercel.app/api?type=vertical&theme=chartreuse-dark)]()
 
 </div>
