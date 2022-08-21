@@ -34,7 +34,7 @@
 
 </div>
 
-<!-- [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) -->
+<!-- [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) ![GitHub metrics](https://metrics.lecoq.io/NDRBAX) -->
 
 <div align="center">
 
@@ -43,9 +43,7 @@
 | ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF&theme=default) | [![NDRBAX's streaks](https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117)](https://github.com/NDRBAX?tab=repositories) |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<br>
-
-![GitHub metrics](https://metrics.lecoq.io/NDRBAX)[![Readme Quotes](https://github-readme-quotes-rho.vercel.app/api?type=vertical&theme=chartreuse-dark)]()
+[![Readme Quotes](https://github-readme-quotes-rho.vercel.app/api?type=vertical&theme=chartreuse-dark)]()
 
 | [![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&layout=compact&bg_color=0d1117&custom_title=Recent+Activity)](https://github.com/NDRBAX?tab=repositories) | [![NDRBAX's Top Languages](https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/NDRBAX?tab=repositories) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
