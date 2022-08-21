@@ -42,7 +42,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/NDRBAX)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]()
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)]()
 
 [![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=0d1117&layout=compact)](https://github.com/NDRBAX?tab=repositories)
 
@@ -52,6 +52,6 @@ _Top languages is only a metric of the languages my public code consists of and 
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF)
 
 </div>
