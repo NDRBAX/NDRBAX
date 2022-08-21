@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ![Logo](assets/cover.gif)
 
 <div align="center">
