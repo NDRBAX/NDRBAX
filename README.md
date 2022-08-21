@@ -44,9 +44,9 @@
 
 [![Readme Quotes](https://github-readme-quotes-rho.vercel.app/api?type=vertical&theme=dark)]()
 
-[![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=ff&layout=compact)](https://github.com/NDRBAX?tab=repositories)
+[![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&layout=compact)](https://github.com/NDRBAX?tab=repositories)
 
-[![NDRBAX's Top Languages](https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=#ff)](https://github.com/NDRBAX?tab=repositories)
+[![NDRBAX's Top Languages](https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/NDRBAX?tab=repositories)
 
 _Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
 
