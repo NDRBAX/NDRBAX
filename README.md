@@ -52,6 +52,6 @@ _Top languages is only a metric of the languages my public code consists of and 
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF&theme=radical)
 
 </div>
