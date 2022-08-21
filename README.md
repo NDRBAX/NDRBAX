@@ -10,6 +10,8 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B7BEC&center=true&multiline=true&width=435&height=60&lines=Hi+there!++I%E2%80%99m+NDRBAX;+Fullstack+Developer+Web+%26+Mobile+)](https://git.io/typing-svg)
+
 [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/search?q=user%3ANDRBAX+language%3Ahtml)
 [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/search?q=user%3ANDRBAX+language%3Acss)
 [![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=flat-square&logo=sass&logoColor=white)]()
@@ -37,10 +39,19 @@
 
 <div align="center">
 
+
+![GitHub metrics](https://metrics.lecoq.io/NDRBAX)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]()
+
 [![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&bg_color=0d1117&layout=compact)](https://github.com/NDRBAX?tab=repositories)
 
 [![NDRBAX's Top Languages](https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/NDRBAX?tab=repositories)
 
 _Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </div>
