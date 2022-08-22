@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFF&center=true&multiline=true&width=435&height=60&lines=Hi+there!++I%E2%80%99m+NDRBAX;+Fullstack+Developer+Web+%26+Mobile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFF&center=true&multiline=true&width=435&height=60&lines=Hi+there!++I%E2%80%99m+NDRBAX;+Fullstack+Developer+Web+%26+Mobile+)]()
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://github.com/search?q=user%3ANDRBAX+language%3Ahtml)
 [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://github.com/search?q=user%3ANDRBAX+language%3Acss)
