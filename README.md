@@ -27,6 +27,7 @@
 [![React](https://img.shields.io/badge/React-20232a.svg?logo=react&style=flat-square&logoColor=%2361DAFB)]()
 [![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)]()<br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)]()
+
 [![SQL](https://img.shields.io/badge/SQL-3867d6.svg?style=flat-square&logo=liquibase&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white)]()
 [![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white)]()
