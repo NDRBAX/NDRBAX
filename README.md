@@ -26,7 +26,7 @@
 [![VueJs](https://img.shields.io/badge/Vue.js-35495E.svg?style=flat-square&logo=vue.js&logoColor=4FC08D)]()
 [![React](https://img.shields.io/badge/React-20232a.svg?logo=react&style=flat-square&logoColor=%2361DAFB)]()
 [![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)]()
-[![Expo](https://img.shields.io/badge/Expo-20232A.svg?style=flat-square&logo=expo&logoColor=E34F26)]()<br>
+[![Expo](https://img.shields.io/badge/Expo-20232A.svg?style=flat-square&logo=expo&logoColor=FFF)]()<br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-3867d6.svg?style=flat-square&logo=liquibase&logoColor=white)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white)]()
