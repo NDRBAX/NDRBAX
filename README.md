@@ -40,8 +40,6 @@
 
 <br>
 
-<hr>
-
 <div align="center">
 
 <br>
