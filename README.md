@@ -36,7 +36,8 @@
 
 </div>
 
-<!-- [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories)  -->
+<!-- [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) ![GitHub metrics](https://metrics.lecoq.io/NDRBAX)
+  -->
 
 <br>
 
@@ -44,10 +45,8 @@
 
 <br>
 
-| ![GitHub metrics](https://metrics.lecoq.io/NDRBAX) | ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF&theme=default) |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-
-[![NDRBAX's streaks](https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117)](https://github.com/NDRBAX?tab=repositories)
+| [![NDRBAX's streaks](https://ndrbax-streak-stats.herokuapp.com?user=ndrbax&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117)](https://github.com/NDRBAX?tab=repositories) | ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF&theme=default) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 
 [![Readme Quotes](https://github-readme-quotes-rho.vercel.app/api?type=vertical&theme=chartreuse-dark)]()
 
