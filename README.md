@@ -37,8 +37,8 @@
 
 </div>
 
-<!-- [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) ![GitHub metrics](https://metrics.lecoq.io/NDRBAX)
-  -->
+[![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) ![GitHub metrics](https://metrics.lecoq.io/NDRBAX)
+ 
 
 <br>
 
@@ -57,3 +57,4 @@
 _Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
 
 </div>
+
