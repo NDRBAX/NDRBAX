@@ -1,6 +1,5 @@
 ![Logo](assets/cover.gif)
 
-
 <div align="center">
 
 ![Wakatime badge](https://wakatime.com/badge/user/86d7ec69-f6ba-4041-8e22-8c92ba3fc1de.svg)
@@ -39,7 +38,6 @@
 
 <!-- [![NDRBAX's GitHub Stats](https://github-readme-stats-ndrbax.vercel.app/api?username=NDRBAX&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&custom_title=NDRBAX)](https://github.com/NDRBAX?tab=repositories) ![GitHub metrics](https://metrics.lecoq.io/NDRBAX) -->
  
-
 <br>
 
 <div align="center">
@@ -57,4 +55,3 @@
 _Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level._
 
 </div>
-
