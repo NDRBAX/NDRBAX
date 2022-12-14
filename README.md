@@ -51,6 +51,8 @@
 
  | [![Readme Quotes](https://github-readme-quotes-rho.vercel.app/api?type=vertical&theme=chartreuse-dark)]()| ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FF&theme=default) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+ 
+ 
 ![GitHub metrics](https://metrics.lecoq.io/NDRBAX)
 
 | [![NDRBAX's Wakatime Stats](https://github-readme-stats-ndrbax.vercel.app/api/wakatime?username=NDRBAX&theme=chartreuse-dark&hide_border=true&langs_count=8&layout=compact&bg_color=0d1117&custom_title=My+recent+coding+time+in+hours)](https://github.com/NDRBAX?tab=repositories) | [![NDRBAX's Top Languages](https://github-readme-stats-ndrbax.vercel.app/api/top-langs/?username=NDRBAX&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/NDRBAX?tab=repositories) |
